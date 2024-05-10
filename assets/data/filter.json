@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Birthday Cake",
+        "count": 7
+    },
+    {
+        "name": "Anniversary Cake",
+        "count": 9
+    },
+    {
+        "name": "Holiday Cake",
+        "count": 330
+    },
+    {
+        "name": "Baby Shower Cake",
+        "count": 201
+    },
+    {
+        "name": "Wedding Cake",
+        "count": 73
+    },
+    {
+        "name": "Retirement Cake",
+        "count": 118
+    }
+    
+]
